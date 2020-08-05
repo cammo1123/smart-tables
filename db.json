@@ -2,7 +2,7 @@
   "storeData":[
     {
       "id":100001,
-      "Name":"Cameron's Store",
+      "label":"Cameron's Store",
       "ip":"192.168.1.3"
     }
   ]
