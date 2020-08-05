@@ -1,7 +1,7 @@
 {
   "storeData":[
     {
-      "StoreID":"100001",
+      "id":100001,
       "Name":"Cameron's Store",
       "ip":"192.168.1.3"
     }
