@@ -3,7 +3,9 @@
     {
       "id":100001,
       "label":"Cameron's Store",
-      "ip":"http://10.182.251.39"
+      "ip":"http://10.182.251.39",
+      "orderPort":":228",
+      "menuPort":"229"
     }
   ]
 }
