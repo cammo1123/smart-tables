@@ -7,7 +7,7 @@
       "orderPort":"228",
       "menuPort":"229",
       "address":"1668 Pittwater Rd, Mona Vale NSW 2103",
-      "stars":5
+      "stars":5,
       "lat":-33.6683579,
       "lng":151.3025414
     },
@@ -18,7 +18,7 @@
       "orderPort": "228",
       "menuPort": "229",
       "address":"2 Mona St, Mona Vale NSW 2103",
-      "stars":4.5
+      "stars":4.5,
       "lat": -33.6660309,
       "lng": 151.3029938
     }
