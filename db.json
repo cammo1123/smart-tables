@@ -3,7 +3,7 @@
     {
       "id":1,
       "label":"Cameron's Store",
-      "ip":"http://192.168.1.24",
+      "ip":"http://10.182.249.166",
       "orderPort":"228",
       "menuPort":"229",
       "address":"1668 Pittwater Rd, Mona Vale NSW 2103",
